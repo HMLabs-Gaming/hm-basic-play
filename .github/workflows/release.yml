@@ -17,6 +17,8 @@ jobs:
       use-java: false
       use-go: true
       build-command: |
+        # Keep Packwiz export versions aligned with the published GitHub Release tag.
+        sed -i "s/^version = .*/version = \"${GITHUB_REF_NAME}\"/" platforms/modrinth/pack.toml platforms/curseforge/pack.toml
         go install github.com/packwiz/packwiz@latest
         (cd platforms/modrinth && packwiz modrinth export)
         (cd platforms/curseforge && packwiz curseforge export)
