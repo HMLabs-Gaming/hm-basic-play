@@ -20,5 +20,5 @@ jobs:
         go install github.com/packwiz/packwiz@latest
         (cd platforms/modrinth && packwiz modrinth export)
         (cd platforms/curseforge && packwiz curseforge export)
-      artifacts-json: '[{"path":"platforms/modrinth/hm-basic-play.mrpack"},{"path":"platforms/curseforge/hm-basic-play.zip"}]'
+      artifacts-json: '[{"path":"platforms/modrinth/HM Basic Play-{version}.mrpack"},{"path":"platforms/curseforge/HM Basic Play-{version}.zip"}]'
     secrets: inherit
