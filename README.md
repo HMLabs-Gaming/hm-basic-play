@@ -1,7 +1,9 @@
 # HM Basic Play
 
-[![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/henrymmey)
-[![Static Badge](https://img.shields.io/badge/Website-henrymeyer.de/gaming-green)](https://henrymeyer.de/gaming)
+[![Modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg)](https://modrinth.com/project/kUYTdD3h)
+[![CurseForge](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg)](https://www.curseforge.com/minecraft/modpacks/hm-basic-play)
+[![GitHub](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_vector.svg)](https://github.com/HMLabs-Gaming/hm-basic-play)
+[![Docs](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/generic_vector.svg)](https://gaming.hmlabs.eu/projects/modpacks/hm-basic-play/)
 
 ---
 
